@@ -1,1 +1,5 @@
-print("heelo world")
+p
+
+
+a
+rint("heelo world")
